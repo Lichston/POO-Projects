@@ -1,8 +1,8 @@
+package aula02;
 import java.util.ArrayList;
 import java.util.List;
 
 import aula01.Product;
-import aula02.Program;
 
 public class Main {
 
